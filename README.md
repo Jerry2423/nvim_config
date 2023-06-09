@@ -9,3 +9,12 @@
 
 **Updates**
 - Toggleterminal: `ctrl-t`
+
+
+**LSP Management**
+- Go to the `lua/user/lsp`
+- Enter `:Mason`
+- Enter `/[language]`
+- Go to the language and enter `i` to install
+- Open the `mason.lua` file, and add the language to `local_server_lists`
+- Save `mason.lua` and done!
