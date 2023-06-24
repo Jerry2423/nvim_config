@@ -14,4 +14,5 @@ configs.setup({
 		enable = true,
 	},
 	indent = { enable = true, disable = { "python", "css" } },
+    auto_install=true
 })

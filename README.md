@@ -10,11 +10,21 @@
 **Updates**
 - Toggleterminal: `ctrl-t`
 
-
 **LSP Management**
+
 - Go to the `lua/user/lsp`
 - Enter `:Mason`
 - Enter `/[language]`
 - Go to the language and enter `i` to install
 - Open the `mason.lua` file, and add the language to `local_server_lists`
 - Save `mason.lua` and done!
+
+
+
+**Treesitter Highlighting**
+
+- [Language parser and setup](https://github.com/nvim-treesitter/nvim-treesitter#folding)
+
+- [Code folding(tree sitter-based)](https://alpha2phi.medium.com/neovim-for-beginners-code-folding-7574925412ea)
+
+- [Code folding command](https://stackoverflow.com/questions/2362914/fold-function-in-vim)
